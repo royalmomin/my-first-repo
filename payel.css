@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: beige;
+    display: flex;
+    color: aqua;
+    text-align: right;
+}
+.border{
+    border: 5px solid yellow;
+    padding-left: 300px;
+    margin-left: 100px;
+    border-radius: 15px;
+    background-color: rgb(181, 244, 8);
+ 
+}
+.border1{
+    border: 5px solid red;
+    padding-left: 50px;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background-color: rgb(226, 126, 89);
+    padding-top: 100px;
+    margin-left: 100px;
+    
+
+}
+.border2{
+    border: 5px solid rgb(113, 107, 107);
+    padding-left: 300px;
+    margin-left: 100px;
+    border-radius: 15px;
+    background-color: rgb(121, 89, 226);
+
+}
